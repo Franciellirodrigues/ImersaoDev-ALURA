@@ -14,8 +14,8 @@ Vão ser 10 dias de aulas com projetos práticos e desafios.
 
 ### 🎉 Resultado
 
-### Desafio dia 01 - Conversor de Moedas e Variáveis<br>
+### Desafio dia 01 - Conversor de Moedas e Variáveis<br><br>
 <img alt="conversordemoedas" src="https://ik.imagekit.io/atnyozbx9v/conversor_de_moedas_g92cgiPSN.gif">
 
-### Desafio dia 01 - Calculadora e laços condicionais no JavaScrip<br>
+### Desafio dia 01 - Calculadora e laços condicionais no JavaScrip<br><br>
 <img alt="calculadora" src="https://ik.imagekit.io/atnyozbx9v/calculadora_nOX9MNREw.gif">

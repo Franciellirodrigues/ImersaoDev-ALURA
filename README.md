@@ -24,4 +24,14 @@ Vão ser 10 dias de aulas com projetos práticos e desafios.
 ### Desafio dia 03 - Mentalista e números aleatórios<br><br>
 <img alt="mentalista" src="https://ik.imagekit.io/atnyozbx9v/aula3_m3Jgo45M9.gif">
 
+### Desafio dia 04 - Aluraflix<br><br>
+<img alt="aluraflix" src="https://ik.imagekit.io/atnyozbx9v/aluraflix_0dHBPBMen.PNG">
 
+### Desafio dia 05 - Aluraflix Part2<br><br>
+<img alt="aluraflix2" src="https://ik.imagekit.io/atnyozbx9v/aluraflixfuncoes_JLCepWrUvM.gif">
+
+### Desafio dia 06 - Tabela de classificação e objetos no JavaScript<br><br>
+<img alt="Tabeladeclassificacao" src="https://ik.imagekit.io/atnyozbx9v/tabeladeclassifica__o_HZ6QkMghI.gif">
+
+### Desafio dia 07 - Trunfo e lógica do Jogo<br><br>
+<img alt="trunfoelogicadojogo" src="https://ik.imagekit.io/atnyozbx9v/supertrunfo_f6zLcpKZO_.gif">

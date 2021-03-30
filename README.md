@@ -14,6 +14,14 @@ Vão ser 10 dias de aulas com projetos práticos e desafios.
 
 ### 🎉 Resultado
 
-### Desafio dia 01 - Conversor de Moedas e Variáveis
+### Desafio dia 01 - Conversor de Moedas e Variáveis<br><br>
 <img alt="conversordemoedas" src="https://ik.imagekit.io/atnyozbx9v/conversor_de_moedas_g92cgiPSN.gif">
+
+### Desafio dia 02 - Calculadora e laços condicionais no JAVASCRIPT<br><br>
+<img alt="calculadora" src="https://ik.imagekit.io/atnyozbx9v/calculadora_nOX9MNREw.gif">
+
+
+### Desafio dia 03 - Mentalista e números aleatórios<br><br>
+<img alt="mentalista" src="https://ik.imagekit.io/atnyozbx9v/aula3_m3Jgo45M9.gif">
+
 

@@ -14,24 +14,24 @@ Vão ser 10 dias de aulas com projetos práticos e desafios.
 
 ### 🎉 Resultado
 
-### Desafio dia 01 - Conversor de Moedas e Variáveis<br><br>
+### Desafio dia 01 - Conversor de Moedas e Variáveis
 <img alt="conversordemoedas" src="https://ik.imagekit.io/atnyozbx9v/conversor_de_moedas_g92cgiPSN.gif">
 
-### Desafio dia 02 - Calculadora e laços condicionais no JAVASCRIPT<br><br>
-<img alt="calculadora" src="https://ik.imagekit.io/atnyozbx9v/calculadora_nOX9MNREw.gif">
+### Desafio dia 02 - Calculadora - Laços condicionais no JavaScript
+<img alt="calculadora" src="https://ik.imagekit.io/atnyozbx9v/calculadora_o7L523T30r.gif">
 
+### Desafio dia 03 - Mentalista
+<img alt="cofre" src="https://ik.imagekit.io/atnyozbx9v/aula3_m3Jgo45M9.gif">
 
-### Desafio dia 03 - Mentalista e números aleatórios<br><br>
-<img alt="mentalista" src="https://ik.imagekit.io/atnyozbx9v/aula3_m3Jgo45M9.gif">
+### Desafio dia 04 - AluraFlix - Funçôes
+<img alt="AluraFlix" src="https://ik.imagekit.io/atnyozbx9v/aluraflix_0dHBPBMen.PNG">
 
-### Desafio dia 04 - Aluraflix<br><br>
-<img alt="aluraflix" src="https://ik.imagekit.io/atnyozbx9v/aluraflix_0dHBPBMen.PNG">
+### Desafio dia 05 - Tabela de classificação - Objetos no JavaScript
+<img alt="Tabela de classificação" src="https://ik.imagekit.io/atnyozbx9v/tabeladeclassifica__o_HZ6QkMghI.gif">
 
-### Desafio dia 05 - Aluraflix Part2<br><br>
-<img alt="aluraflix2" src="https://ik.imagekit.io/atnyozbx9v/aluraflixfuncoes_JLCepWrUvM.gif">
+### Desafio dia 06 - Trunfo - Lógica de rodadas com JavaScript
+<img alt="Trunfo" src="https://ik.imagekit.io/atnyozbx9v/trunfo_e6RmKxT1D.gif">
 
-### Desafio dia 06 - Tabela de classificação e objetos no JavaScript<br><br>
-<img alt="Tabeladeclassificacao" src="https://ik.imagekit.io/atnyozbx9v/tabeladeclassifica__o_HZ6QkMghI.gif">
+### Desafio dia 06 - Certificard - Conclusão imersão DEV
+<img alt="Certificard" src="https://ik.imagekit.io/atnyozbx9v/trunfo_e6RmKxT1D.gif">
 
-### Desafio dia 07 - Trunfo e lógica do Jogo<br><br>
-<img alt="trunfoelogicadojogo" src="https://ik.imagekit.io/atnyozbx9v/supertrunfo_f6zLcpKZO_.gif">

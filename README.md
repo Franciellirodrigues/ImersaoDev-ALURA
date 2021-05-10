@@ -35,7 +35,7 @@ Vão ser 10 dias de aulas com projetos práticos e desafios.
 ### Desafio dia 06 - Certificard - Conclusão imersão DEV
 <img alt="Certificard" src="https://ik.imagekit.io/atnyozbx9v/certificard2_n01pYJ4OA.gif">
 
-<br><br><br>
+<br><br><br><br>
 <p align="center">
 Desenvolvido com 💜 por Francielli Rodrigues.
 </p>
